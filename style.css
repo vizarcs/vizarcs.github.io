@@ -1,0 +1,94 @@
+body{
+    font-family: Arial, Helvetica, sans-serif, italic;
+    margin: 0px;
+    background-image: url(https://i.pinimg.com/originals/ea/1d/97/ea1d9797c9bf3dda7a23b238e5e4b364.jpg);
+    color: white;
+}
+
+body > header {
+    background-color: #222222;
+    color: white;
+    text-align: center;
+}
+
+#mainlogo {
+    align-items: center;
+}
+
+
+body > header > nav {
+    color: white;
+    text-decoration: none;
+}
+
+#nav-ul {
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+#nav-ul > li > a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 16px;
+    margin: 120px;
+}
+
+body > main {
+    text-align: center;
+}
+
+blockquote {
+    text-align: center;
+}
+
+blockquote > q {
+    font-size: 1.5vw;
+    font-style: italic;
+}
+
+blockquote > p {
+    font-size: 1vw;
+}
+
+body > main > article {
+    width: 70%;
+    margin: auto;
+}
+
+body > main > footer {
+    text-align: center;
+}
+
+#WIP {
+    text-align: center;
+    align-items: center;
+    
+}
+
+
+body > footer {
+    background-color: #222222;
+    color: white;
+    padding-bottom: 20px;
+}
+
+
+#footer-ul {
+    display: flex;
+    list-style: none;
+}
+
+#footer > div > li {
+    margin-left: 12px;
+}
+
+#footer-ul > div > li > a{
+    text-decoration: none;
+    color: white;
+}
+
+
